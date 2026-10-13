@@ -1,0 +1,6 @@
+{
+  "name": "Duka Tracker",
+  "description": "Mobile-first PWA for small shop owners (dukas) in Kenya to track sales, stock, and credit debts (mkopo) with trust scoring and M-Pesa reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
